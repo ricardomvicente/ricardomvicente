@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi%20%F0%9F%91%8B,%20I'm%20Ricardo%20Vicente&fontSize=49&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi%20%F0%9F%91%8B,%20I'm%20Ricardo%20Vicente&fontSize=47&fontColor=FFFFFF&fontAlign=50&fontAlignY=80&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=1E90FF"  />
 </div>
 
 ###
@@ -8,21 +8,23 @@
 
 ###
 
-<p align="left">👨‍💻 I’m working on programming projects in C, Python, Prolog and RISC-V Assembly<br><br>🧠 Currently learning more about systems, algorithms and technical product<br><br>📈 Also interested in finance, investment research and market analysis<br><br>🌐 Portfolio: migueljordao.com<br><br>📫 Reach me at ricardo.madeira.vicente@gmail.com</p>
+<p align="left">👨‍💻 I’m working on programming projects in C, Python, Prolog and RISC-V Assembly<br><br>🧠 Currently learning more about technology<br><br>📫 Reach me at ricardo.madeira.vicente@gmail.com</p>
 
 ###
 
-<h2 align="left">Languages</h2>
+<h1 align="left">Languages</h1>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="45" alt="c logo"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/ricardomvicente/ricardomvicente/languages-output/languages.svg" height="150" alt="languages graph"  />
@@ -35,11 +37,11 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo"  />
 </div>
 
 ###
@@ -54,6 +56,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ricardomvicente.ricardomvicente&right_color=dodgerblue"  />
 </div>
@@ -61,8 +65,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-  
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=1E90FF"  />
 </div>
 
 ###
