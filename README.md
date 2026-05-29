@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="left">Languages</h1>
+<h2 align="left">Languages</h2>
 
 ###
 
@@ -23,8 +23,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/ricardomvicente/ricardomvicente/languages-output/languages.svg" height="150" alt="languages graph"  />
