@@ -8,7 +8,7 @@
   <a href="https://github.com/user-attachments/files/28420996/CV.-.Ricardo.Vicente.pdf">📃 Download my CV</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="www.linkedin.com/in/ricardo-vicente-3112b9405" target="_blank">
-    Connect with me <img src="https://skillicons.dev/icons?i=linkedin" height="25" style="vertical-align: down;"/>
+    Connect with me <img src="https://skillicons.dev/icons?i=linkedin" height="25" style="vertical-align: up;"/>
   </a>
 </h3>
 
