@@ -9,7 +9,7 @@
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ricardo-vicente-3112b9405" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center; vertical-align: middle;">
     Connect with me&nbsp; 
-    <img src="https://skillicons.dev/icons?i=linkedin" height="25" style="vertical-align: middle; margin: 0;" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="24" style="vertical-align: -7px;" alt="LinkedIn" />
   </a>
 </h3>
 
