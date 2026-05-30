@@ -5,9 +5,9 @@
 
 <h3 align="center">Computer Science and Engineering student at Instituto Superior Técnico</h3>
 <h3 align="center">
-  <a href="https://github.com/user-attachments/files/28420996/CV.-.Ricardo.Vicente.pdf">📃 Download my CV</a>
+  <a href="https://github.com/user-attachments/files/28421652/CV-Ricardo_Vicente.pdf">📃 Download my CV</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ricardo-vicente-3112b9405" target="_blank" style="text-decoration: none; vertical-align: middle; display: inline-flex; align-items: center;">
+  <a href="https://www.linkedin.com/in/ricardo-vicente-3112b9405" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center; vertical-align: middle;">
     Connect with me&nbsp; 
     <img src="https://skillicons.dev/icons?i=linkedin" height="25" style="vertical-align: middle; margin: 0;" alt="LinkedIn" />
   </a>
