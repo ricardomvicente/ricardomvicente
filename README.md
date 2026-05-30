@@ -25,7 +25,7 @@
 <p align="left">
   👨‍💻 I’m working on programming projects in C, Python, Prolog and RISC-V Assembly<br><br>
   🧠 Currently learning more about technology<br><br>
-  📫 Reach me at ricardo.madeira.vicente@gmail.com<br><br>
+  📫 Reach me at <a href="mailto:ricardo.madeira.vicente@gmail.com">ricardo.madeira.vicente@gmail.com</a><br><br>
 </p>
 
 
