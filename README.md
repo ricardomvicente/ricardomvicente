@@ -7,9 +7,9 @@
 <h3 align="center">
   <a href="https://github.com/user-attachments/files/28420996/CV.-.Ricardo.Vicente.pdf">📃 Download my CV</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/TEU_USER_AQUI" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center; gap: 8px;">
-    Connect with me 
-    <img src="https://skillicons.dev/icons?i=linkedin" height="25" style="vertical-align: middle; margin-bottom: 2px;" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/TEU_USER_AQUI" target="_blank" style="text-decoration: none; vertical-align: middle; display: inline-flex; align-items: center;">
+    Connect with me&nbsp; 
+    <img src="https://skillicons.dev/icons?i=linkedin" height="25" style="vertical-align: middle; margin: 0;" alt="LinkedIn" />
   </a>
 </h3>
 
