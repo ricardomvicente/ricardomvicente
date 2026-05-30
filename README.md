@@ -14,6 +14,13 @@
 </h3>
 
 
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ricardomvicente.ricardomvicente&right_color=dodgerblue"  />
+</div>
+
+
 <h2 align="left">Topics</h2>
 <p align="left">
   👨‍💻 I’m working on programming projects in C, Python, Prolog and RISC-V Assembly<br><br>
@@ -44,23 +51,6 @@
 </div>
 
 
-<h2 align="left">Conect with me</h2>
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ricardomvicente.ricardomvicente&right_color=dodgerblue"  />
-</div>
-
-###
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=1E90FF"  />
 </div>
-
-###
