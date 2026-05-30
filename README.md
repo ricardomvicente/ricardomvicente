@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">Computer Science and Engineering student at Instituto Superior Técnico</h3>
-
+<h3 align="center"><a href="https://github.com/user-attachments/files/28420996/CV.-.Ricardo.Vicente.pdf">📃 Download my CV</a></h3>
 
 <p align="left">
   👨‍💻 I’m working on programming projects in C, Python, Prolog and RISC-V Assembly<br><br>
